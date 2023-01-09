@@ -9,7 +9,7 @@ class Mahasiswa extends CI_Controller
 	// konfigurasi di server
 	// ex ketika user regis langsung kasih key
 	var $key_name = 'GAB2-API';
-	var $key_value = 'RESTAPI-GAB2';
+	var $key_value = 'RESTAPI';
 
 
 	public function index()
